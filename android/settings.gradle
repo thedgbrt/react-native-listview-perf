@@ -1,0 +1,3 @@
+rootProject.name = 'listviewPerf'
+
+include ':app'
